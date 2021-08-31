@@ -1,3 +1,6 @@
 # calcula_notas_kotlin
 
-Calcula Notas
+Estudos em kotlin
+
+<li>Layout bśsico</li>
+<li>Action mainActivity</li>
